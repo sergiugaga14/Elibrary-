@@ -23,6 +23,7 @@ to our goal.
 </p>
 
 # GUI
+I will attach some pictures of how the interface of my app looked like
 <p align="center">
   <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/home.png" width="700" title="hover text">
   <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/gui1.png" width="700" title="hover text">
