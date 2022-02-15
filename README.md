@@ -25,5 +25,8 @@ to our goal.
 # GUI
 <p align="center">
   <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/home.png" width="700" title="hover text">
+  <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/gui1.png" width="700" title="hover text">
+  <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/gui2.png" width="700" title="hover text">
+  <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/gui3.png" width="700" title="hover text">
  
 </p>
