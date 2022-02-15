@@ -16,3 +16,8 @@ and calculates a fine if necessary.
 The goal of the project is to implement an eco-friendly environment which helps libraries to provide
 efficient services. We consider developing more features, such as access to e-books, to get even closer
 to our goal.
+# GUI
+<p align="center">
+  <img src="https://github.com/sergiugaga14/Elibrary-/blob/master/home.png" width="700" title="hover text">
+ 
+</p>
